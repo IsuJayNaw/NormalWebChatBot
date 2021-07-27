@@ -3,3 +3,9 @@
     font-size: 4rem;
     letter-spacing: 0.5rem;
 }
+
+button{
+    background-color: #9966ff;
+    justify-content: center;
+    display: block;
+}
